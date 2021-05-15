@@ -9,7 +9,7 @@ The third challenge involved calculating geographic distances. I copied and past
 The fourth challenge involved creating a histogram displaying the frequency of flights by distance. I imported two libraries- numpy and matplotlib for creating a histogram. The first argument I supplied was the dataset (list of distances). The second argument (100) is the number of bins to divide the histogram into. I also specified the color purple for the histogram. 
 
 The histogram output is shown below:
-https://github.com/Kulsoom-Hisam/Lab5-Analyzing-flights/histogram.png)
+![image of histogram](https://github.com/Kulsoom-Hisam/Lab5-Analyzing-flights/blob/main/histogram.png)
 
 
 
